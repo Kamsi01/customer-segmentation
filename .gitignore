@@ -1,0 +1,20 @@
+OS Files
+.DS_Score
+Thumbs.db
+
+Jupyter Notebook
+.ipnyb_checkpoints/
+experiments.ipynb
+
+Virtual Environments
+.venv/
+.env/
+env/
+
+Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+Data
+*.xlsx
